@@ -167,3 +167,7 @@ a:hover {
     margin-bottom: 25px;
     padding-top: 10px;
 }
+.source {
+    text-decoration: none;
+    text-align: center;
+}
