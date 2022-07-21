@@ -22,8 +22,8 @@ body {
 .weather {
     border: 1px solid #dadde1;
     padding: 1em;
-    margin: 2em;
-    max-width: 700px;
+   
+    
     width: 100%;
     margin: auto;
     color: #130D2A;
@@ -173,4 +173,8 @@ a:hover {
 }
 .number {
     color: #2c7abf;
+}
+.weather-app-wrapper {
+    max-width: 800px;
+    margin: 30px auto;
 }
