@@ -66,6 +66,7 @@ li {
     height: 19px;
     list-style: none;
     text-align: right;
+    text-transform: capitalize;
 }
 
 .temperature {
