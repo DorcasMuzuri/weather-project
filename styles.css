@@ -184,3 +184,14 @@ li {
 .active:hover {
     text-decoration: none;
 }
+.weather-forecast {
+    margin: 20px;
+    text-align: center;
+}
+.weather-forecast-date {
+font-size: 24px;
+}
+
+.weather-forecast-temperatures {
+    font-size: 24px;
+}
